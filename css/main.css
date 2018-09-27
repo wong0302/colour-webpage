@@ -7,7 +7,7 @@ body {
 header.bob {
     /*    <header class="bob"></header>*/
     border-top: 1rem solid hsl(215, 50%, 20%);
-    background: url("img/ocean.jpg") center center / cover no-repeat local border-box border-box;
+    background: url("https://github.com/wong0302/colour-webpage/blob/master/img/ocean.jpg?raw=true") center center / cover no-repeat local border-box border-box;
 }
 
 nav {
