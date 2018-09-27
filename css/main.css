@@ -7,7 +7,7 @@ body {
 header.bob {
     /*    <header class="bob"></header>*/
     border-top: 1rem solid hsl(215, 50%, 20%);
-    background: url("ocean.jpg") center center / cover no-repeat local border-box border-box;
+    background: url("img/ocean.jpg") center center / cover no-repeat local border-box border-box;
 }
 
 nav {
